@@ -12,6 +12,7 @@ Welcome to CS 110. I look forward to working with you this semester. This is you
 
 Preferred Name: keaghan Johnson
 
-Discord username: KJohnson108#2667
+Discord username: KJohnson108#2667 
 
 REPL url: KJohnson108
+1
