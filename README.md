@@ -14,5 +14,4 @@ Preferred Name: keaghan Johnson
 
 Discord username: KJohnson108#2667 
 
-REPL url: KJohnson108
-1
+REPL url: https://replit.com/join/dnskjaakns-kjohnson108 

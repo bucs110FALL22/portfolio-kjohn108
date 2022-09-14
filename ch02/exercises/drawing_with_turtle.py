@@ -8,7 +8,7 @@ degrees = 360
 angle = (degrees)/(sides)
 
 chris = turtle.color("red")
-chris = turtle.shape("turtle")
+chris = turtle.shape("circle")
 
 for i in range(sides):
   chris = turtle.forward(length)
