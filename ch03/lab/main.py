@@ -28,7 +28,7 @@ pygame.time.wait(2000)
 # PART B - complete part B here
 
 window = pygame.display.set_mode()
-pygame.Color((0,0,255))
+
 for i in range(5):
   coords = []
   num_sides = int(input("how many sides?"))
@@ -42,7 +42,7 @@ for i in range(5):
     y = sidelength * math.sin(theta) + offset
     coords.append([x,y])
   pygame.draw.polygon
-shape= pygame.draw.polygon(window, "white", [coords])
+shape= pygame.draw.polygon(window, "red" , [coords])
 print(shape)
 pygame.display.flip()
 pygame.time.wait(500)
