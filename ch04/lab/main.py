@@ -11,13 +11,9 @@ pygame.display.get_window_size()
 
 #pick a player
 
-
-
-
-
-
-
-
+for event in pygame.event.get():
+  if event.type == pygame.KEYDOWN:
+    
 
 
 
@@ -69,3 +65,4 @@ pygame.display.flip()
 pygame.time.wait(3000)
 print(p1score)
 print(p2score)
+
