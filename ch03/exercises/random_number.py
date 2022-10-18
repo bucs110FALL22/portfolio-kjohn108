@@ -1,7 +1,7 @@
 import random
 guessnum = 0
-correctnum = random.randint(0,5)
-for i in range(5):
+correctnum = random.randint(0,10)
+for i in range(3):
   guessnum += 1
   guess = int(input("enter a guess"))
   if guess > correctnum:

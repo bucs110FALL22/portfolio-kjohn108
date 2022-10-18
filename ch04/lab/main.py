@@ -10,14 +10,6 @@ screen = pygame.display.set_mode([size,size])
 pygame.display.get_window_size()
 
 #pick a player
-pygame.draw.rect(screen,red,(0,0,150,300))
-
-for event in pygame.event.get():
-  if event.type == pygame.KEYDOWN:
-  
-
-
-
 
 
 pygame.draw.rect(screen,'white', (0,0,size,size))
