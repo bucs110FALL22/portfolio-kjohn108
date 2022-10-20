@@ -1,3 +1,7 @@
-preferred name - Keaghan Johnson 
+# CS110 Portfolio
+
+preferred name - Keaghan Johnson
+
 Discord Username - KJohnson108 #2667 
+
 Repl Url link - https://replit.com/join/gbmqvbbcgh-kjohnson108
