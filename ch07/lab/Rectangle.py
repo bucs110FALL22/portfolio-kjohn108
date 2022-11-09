@@ -15,3 +15,6 @@ class Rectangle:
 
   def __str__(self):
     return str("x =",self.x, "y =", self.y,"Height =",self.height, "Width =",self.width)
+
+  # def grow(self): 
+  #   self.x =self.x+1
