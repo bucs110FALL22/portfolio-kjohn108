@@ -1,5 +1,5 @@
-from stats import StatsAPI
-from next import BitcoinInfo
+from Rates import StatsAPI
+from Info import BitcoinInfo
   
 def convert_to_btc():
   stat = StatsAPI()
